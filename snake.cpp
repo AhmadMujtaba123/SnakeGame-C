@@ -1,12 +1,3 @@
-/*
-   Snake Project.
-   Encoded by:
-   M.Ahmad Mujtaba Mahmood (FA20-BSCS-015)
-   Fasih Ahmad (FA20-BSCS-013)
-   M.Shaheer Zafar (FA20-BSCS-024)
-   
-   Submission to: Respected, Mam Mamoona.
-*/
 #include<iostream>
 #include<windows.h>
 #include<conio.h>
